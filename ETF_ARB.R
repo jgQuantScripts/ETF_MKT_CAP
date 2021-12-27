@@ -1,5 +1,5 @@
 require("httr");require("dplyr");require("purrr");require("data.table");require("rvest");require("quantmod")
-require("pbapply")
+require("pbapply");require("PerformanceAnalytics")
 # ********************************************************************************************************
 #                                                     getConstituents
 # ********************************************************************************************************
